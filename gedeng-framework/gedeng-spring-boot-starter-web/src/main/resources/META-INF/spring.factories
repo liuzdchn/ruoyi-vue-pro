@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.gedeng.trade.framework.apilog.config.YudaoApiLogAutoConfiguration,\
+  com.gedeng.trade.framework.jackson.config.YudaoJacksonAutoConfiguration,\
+  com.gedeng.trade.framework.swagger.config.YudaoSwaggerAutoConfiguration,\
+  com.gedeng.trade.framework.web.config.YudaoWebAutoConfiguration

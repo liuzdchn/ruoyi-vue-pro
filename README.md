@@ -82,12 +82,12 @@
 
 | 项目 | 说明 |
 | --- | --- |
-| `yudao-dependencies` | Maven 依赖版本管理 |
-| `yudao-framework` | Java 框架拓展 |
-| `yudao-admin-server` | 管理后台的服务端 |
-| `yudao-admin-ui` | 管理后台的 UI 界面 |
-| `yudao-user-server` | 用户前台的服务端 |
-| `yudao-user-ui` | 用户前台的 UI 界面 |
+| `gedeng-dependencies` | Maven 依赖版本管理 |
+| `gedeng-framework` | Java 框架拓展 |
+| `gedeng-admin-server` | 管理后台的服务端 |
+| `gedeng-admin-ui` | 管理后台的 UI 界面 |
+| `gedeng-user-server` | 用户前台的服务端 |
+| `gedeng-user-ui` | 用户前台的 UI 界面 |
 
 ### 后端
 
